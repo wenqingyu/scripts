@@ -1,0 +1,29 @@
+{
+  "name": "scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wenqingyu/scripts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wenqingyu/scripts/issues"
+  },
+  "homepage": "https://github.com/wenqingyu/scripts#readme",
+  "dependencies": {
+    "async-request": "^1.2.0",
+    "azure-blob-store": "^1.0.7",
+    "azure-storage": "^2.1.0",
+    "base-64": "^0.1.0",
+    "fast-azure-storage": "^1.0.2",
+    "goo.gl": "^0.1.4",
+    "request": "^2.81.0",
+    "tinyurl": "^1.1.2"
+  }
+}

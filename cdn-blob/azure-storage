@@ -1,0 +1,1 @@
+AZURE_STORAGE_ACCOUNT=yedian AZURE_STORAGE_ACCESS_KEY=8PNv1mBx5FEBqZnuEIgQ3dovcHz7lM1hSDG5c/xudHxzs+J0aKOGdA4WfzoL5l3RGOlIwHXOwiH1ag5h6QCCvg== node cdn-azure-storage.js
